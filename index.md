@@ -4,4 +4,4 @@ layout: frontpage
 
 ## Welcome to my website
 
-慢慢称为一个技术牛牛！！！
+慢慢成为一个技术牛牛！！！
