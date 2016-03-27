@@ -2,6 +2,7 @@
 layout: post
 title: "github+jekyll 搭建静态博客"
 categories: jekyll
+comments: true
 ---
 为了提升一下level以及管理好自己的技术文章，学习使用了jekyll搭建自己的博客并将其托管到github上。
 
@@ -13,7 +14,7 @@ categories: jekyll
 
 - jekyll new myblog，会生成jekyll自带的一些文件
 
-- jekyll build; jekyll server; 编译文件并开启jekyll服务
+- jekyll build; jekyll serve; 编译文件并开启jekyll服务
 
   可通过[http://localhost:4000/](http://localhost:4000/)访问默认博客
   
