@@ -18,8 +18,8 @@ viewsourceroot: https://github.com/panhe/panhe.github.io
 newsourceroot: https://github.com/panhe/panhe.github.io
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: lixizhi
-#duoshuo_url: "http://lixizhi.github.io"
+duoshuo_shortname: panhe
+duoshuo_url: "http://panhe.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: panhe
 disqus_url: "http://panhe.github.io"
